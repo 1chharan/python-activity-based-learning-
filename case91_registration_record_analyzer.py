@@ -1,5 +1,3 @@
-
-
 BRANCHES = ["CSE", "ECE", "EEE", "MEC", "CIV"]
 MIN_YEAR = 20
 MAX_YEAR = 26
